@@ -4,7 +4,9 @@
         DAC_DEMO
 
 Description: 
- 
+  is a testing setup used to evaluate the Digital-to-Analog Converter (DAC) output of an ESP32 by connecting a potentiometer to adjust and 
+  monitor the output voltage at the DAC_PIN. By varying the potentiometer's resistance, the output voltage can be observed and compared with the expected DAC 
+  values to verify the accuracy and functionality of the DAC output.
 
 Engineers:
  Aragon, Edward Paul M.
